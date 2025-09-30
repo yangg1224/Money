@@ -64,7 +64,7 @@ This ensures comprehensive project knowledge is maintained and accessible throug
 **Next Steps:** Set up iOS project structure and development environment
 
 When development begins, documentation should be updated with:
-- **ARCHITECTURE.md** - Project structure and dependencies
+- **ARCHITECTURE.md** - Project structure and dependencies, update the drawio flow chart 
 - **DECISIONS.md** - Build system choices and development workflow
 - **COMPONENTS.md** - Core components as they're built
 - **PATTERNS.md** - Established coding patterns
